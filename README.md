@@ -1,7 +1,7 @@
 Literally grabs google jobs and filters it out for you. Great for finding companies in need of a specific service based on jobs. We used it to find ppl looking for Data Engineering @ Ardentai.io
 
 
-Usage:
+###Usage:
 
 Run main.py to run the scraper. Make sure to set the right URL for the page. Also idk if the html classnames change per person so you might have to adjust that.
 
